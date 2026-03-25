@@ -2,115 +2,157 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Avez Shaikh
+  given: Avez
+  family: Shaikh
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - PhD Candidate
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "Research"
+role: PhD Candidate in Mechanical Engineering
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Avez Shaikh is a PhD candidate in Mechanical Engineering at Pennsylvania
+  State University working at the intersection of additive manufacturing,
+  computational design, inverse design, and physics-guided AI. His work
+  focuses on manufacturable metamaterials, simulation-driven engineering,
+  and generative design pipelines that connect machine learning with
+  real manufacturing constraints.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Pennsylvania State University
+    url: https://www.psu.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: mailto:aas6636@psu.edu
+    label: aas6636@psu.edu
+  - icon: hero/phone
+    url: tel:+18142807238
+    label: +1 (814) 280-7238
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=9gPZgy4AAAAJ&hl=en&oi=ao
+    label: Google Scholar
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Additive Manufacturing
+  - Inverse Design
+  - Physics AI
+  - Generative AI for Engineering
+  - Computational Design for Manufacturing
+  - Geometry Processing
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Mechanical Engineering
+    institution: Pennsylvania State University
+    start: 2022-08-01
+    end: 2026-12-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Expected completion: September to December 2026. Advisor: Dr. Guha Manogharan.
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: Download CV
+      url: /uploads/resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS in Mechanical Engineering
+    institution: Pennsylvania State University
+    start: 2022-08-01
+    end: 2024-12-31
+    summary: |
+      GPA: 3.9/4.00. Minor in Additive Manufacturing and Design.
+  - degree: BS in Mechanical Engineering
+    institution: Pune University, India
+    start: 2018-07-01
+    end: 2022-05-31
+    summary: |
+      Summa Cum Laude. GPA: 9.7/10.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Incoming AI Engineer
+    org: Atomic Machines
+    start: 2026-09-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Joining Atomic Machines in Emeryville, California as an AI engineer focused on advanced manufacturing systems.
+  - role: Incoming Multiphysics R&D Intern
+    org: ABB Corporate Research Center
+    start: 2026-05-01
+    end: 2026-08-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Summer 2026 internship in Raleigh, North Carolina focused on multiphysics research and development.
+  - role: Graduate Research Assistant
+    org: Pennsylvania State University
+    start: 2022-08-01
+    summary: |
+      Develop process-aware inverse design pipelines for metamaterials and advanced manufacturing, including generative models, CAD automation, and experimental validation. Recent work includes overcuring-defect prediction under 5 percent error, defect reduction through compensation algorithms, inverse-designed acoustic absorbers, and scalable generation of 500k metamaterial unit cells for AI training.
+  - role: PLM Consultant and Design Engineer
+    org: Jaguar and Land Rover Division
+    start: 2021-01-01
+    end: 2022-08-01
+    summary: |
+      Performed pre-CAE analysis and design standardization for automotive components, improving manufacturing consistency and resolving fouling and clashing issues through CATIA-based kinematic analysis.
+  - role: Chief Operating Officer
+    org: Invenzee Technologies Pvt. Ltd.
+    start: 2019-01-01
+    end: 2021-12-31
+    summary: |
+      Co-founded and operated a research-tech startup, led a 15-member team, launched patented products across sectors, manufactured approximately 50,000 sanitizer dispensers during COVID-19, and secured pre-seed funding.
 
 skills:
-  - name: Technical Skills
+  - name: Engineering and Simulation
     items:
-      - label: Python
+      - label: Solidworks / Fusion 360 / CATIA / NX
         level: 5
-      - label: Machine Learning
+      - label: Ansys / Abaqus / COMSOL / STAR-CCM+
         level: 5
-      - label: Cloud Computing
+      - label: FEA / CFD / Multiphysics Modeling
         level: 4
-  - name: Research & Communication
+  - name: AI and Programming
     items:
-      - label: Academic Writing
+      - label: Python / Bash / Matlab / C
         level: 5
-      - label: Conference Presentations
+      - label: PyTorch / scikit-learn / JAX / NumPy / SciPy
+        level: 5
+      - label: GNN / Diffusion / VAE / GAN / LLM Fine-Tuning
         level: 4
-      - label: Grant Proposals
+  - name: Manufacturing and Testing
+    items:
+      - label: Vat Photopolymerization / LPBF / Binder Jetting / FDM
+        level: 5
+      - label: Mechanical Testing / Micro-CT / XRD / SEM
+        level: 4
+      - label: SPC / DOE / Root Cause Analysis / Six Sigma
         level: 4
 
 languages:
   - name: English
     level: 5
+    label: Professional
+  - name: Hindi
+    level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - name: Marathi
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: People's Choice Award, Research Poster
+    awarder: Purdue Engineering Virtual Graduate Showcase
+    date: "2021-01-01"
+    summary: Selected for best research poster presentation.
+    icon: hero/trophy
+  - title: Winner, B-Plan Pitch Competition
+    awarder: Global Pitch Plan, IIE at California State University Long Beach
+    date: "2021-01-01"
+    summary: Won startup pitch competition for engineering innovation.
+    icon: hero/trophy
+  - title: Best Design Idea
+    awarder: ConnectNext Program, La Fondation Dassault Systemes
+    date: "2021-01-01"
+    summary: Recognized for product and design innovation.
+    icon: hero/trophy
+  - title: TEDx Speaker
+    awarder: TEDx VIIT
+    date: "2021-01-01"
+    summary: Invited speaker recognized for contributions to social innovation during the pandemic.
     icon: hero/trophy
