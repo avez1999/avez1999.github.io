@@ -35,11 +35,11 @@ sections:
       title: Research Summary
       subtitle: ''
       text: |-
-        My work focuses on computational design for additive manufacturing, inverse design, and physics-aware AI systems for engineering.
+        Avez Shaikh is a PhD Candidate in the Department of Mechanical Engineering at the Pennsylvania State University. He currently works as a research assistant at the Systems for Hybrid-Additive Process Engineering Laboratory (SHAPE), under the advisement of Dr. Guha Manogharan. His research focuses on designing metamaterials using additive manufacturing (AM) and inverse computational design to achieve targeted flow and mechanical properties.
 
-        Current directions include process-constrained generative design, acoustic and electrochemical metamaterials, CAD automation, manufacturability-aware data generation, and simulation workflows spanning FEA, CFD, and geometry processing.
+        Additive manufacturing enables geometric complexity, but complexity without engineering precision is ineffective. His work incorporates process-specific constraints across AM methods, including Vat Photopolymerization, Laser Powder Bed Fusion (LPBF), and Binder Jetting, into inverse design frameworks for metamaterials employed in applications such as acoustic absorbers, battery electrodes, and bone scaffolds. To achieve this, he uses different generative AI techniques such as Conditional Variational Graph Autoencoders (CVGAEs), diffusion models, and Generative Adversarial Networks (GANs).
 
-        I am especially interested in building tools that connect generative AI with real manufacturing constraints so designs are both novel and buildable.
+        Prior to joining Penn State, he earned his Bachelor of Technology (B. Tech) in Mechanical Engineering from Vishwakarma Institute of Information Technology, India. He has previously worked at Tata Technologies, Jaguar Land Rover department as a Product Lifecycle Management (PLM) consultant and has experience as a Founder for an early-stage startup, Invenzee Technologies. Avez holds four patents and his research has been published in Journal of Materials Engineering and Performance, Materials Science in Additive Manufacturing, Advances in Materials and Processing Technologies, Manufacturing Letters and many other journal and conference venues. He also serves as a peer reviewer for several prominent journals, including Progress in Additive Manufacturing, Discover Sustainability and Nature Scientific Reports.
     design:
       columns: '1'
   - block: markdown
