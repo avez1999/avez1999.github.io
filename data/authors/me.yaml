@@ -30,6 +30,12 @@ links:
   - icon: hero/phone
     url: tel:+18142807238
     label: +1 (814) 280-7238
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/avez-shaikh/
+    label: LinkedIn
+  - icon: brands/github
+    url: https://github.com/avez1999
+    label: GitHub
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=9gPZgy4AAAAJ&hl=en&oi=ao
     label: Google Scholar
