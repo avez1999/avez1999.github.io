@@ -56,17 +56,21 @@ sections:
         - [A review on machine learning, big data analytics, and design for additive manufacturing for aerospace applications](https://link.springer.com/article/10.1007/s11665-022-07125-4)
     design:
       columns: '1'
-  - block: markdown
+  - block: collection
     id: projects
     content:
       title: Featured Projects
-      text: |-
-        - Agentic CAD in Fusion 360: built a Python CLI client and Fusion 360 add-in bridge that uses structured tool calls to create and modify parametric CAD models through natural-language workflows.
-        - Process-aware inverse design for metamaterials: developed scalable procedural CAD generation for 500k unit cells with manufacturability screening to create training data for generative AI models.
-        - Acoustic metamaterial design: inverse-designed absorbers for broadband, tonal, and harmonic cases up to 6500 Hz and demonstrated an 88 percent reduction of a 95 dB white-noise source.
-        - Vat photopolymerization compensation: created a mathematical model for curing-induced dose bleed with less than 5 percent prediction error and reduced predicted defects by 95 percent.
+      text: Selected projects pulled from my Penn State research portfolio.
+      filters:
+        folders:
+          - projects
     design:
-      columns: '1'
+      view: article-grid
+      columns: 2
+      fill_image: true
+      show_date: false
+      show_read_time: false
+      show_read_more: true
   - block: markdown
     id: contact
     content:

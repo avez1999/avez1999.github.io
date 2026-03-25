@@ -1,6 +1,7 @@
 ---
-title: PyTorch
+title: Legacy Demo Project
 date: 2023-10-26
+draft: true
 links:
   - type: site
     url: https://github.com/pytorch/pytorch
@@ -10,6 +11,6 @@ tags:
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Archived starter content.
 
 <!--more-->

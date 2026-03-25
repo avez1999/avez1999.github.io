@@ -12,14 +12,14 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Research projects from additive manufacturing, inverse design, and process-aware computational engineering.
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: false
-      columns: 3
+      fill_image: true
+      columns: 2
       show_date: false
       show_read_time: false
       show_read_more: false

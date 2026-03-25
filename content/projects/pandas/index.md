@@ -1,6 +1,7 @@
 ---
-title: Pandas
+title: Legacy Demo Project
 date: 2023-10-26
+draft: true
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
@@ -10,6 +11,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Archived starter content.
 
 <!--more-->
